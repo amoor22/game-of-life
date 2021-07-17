@@ -2,7 +2,7 @@
 
 ## 🚧The website is in progress🚧
 
-## 👉 ~~**Live website**~~ 👈
+## 👉 [**Live website**](https://amoor22.github.io/game-of-life/) 👈
 
 ## Languages: 
 * HTML <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="14"/>
